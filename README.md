@@ -1,14 +1,14 @@
 # Vinicius Bastazin Araujo
 
 🎯 Frontend Engineer | React, Next.js, React Native, TypeScript  
-📍 Presidente Prudente, SP – Aberto a remoto Brasil/EUA/Europa  
+📍 Presidente Prudente, SP – Aberto a remoto Brasil
 📫 [LinkedIn](https://linkedin.com/in/vbastazin) • [Portfólio](https://viniciusbastazin.vercel.app) • [E-mail](mailto:vbastazin@gmail.com)
 
 ---
 
 ## 💻 Sobre mim
 
-Sou desenvolvedor frontend com mais de 6 anos de experiência, focado em criar interfaces performáticas, acessíveis e escaláveis com React, Next.js e TypeScript.
+Sou desenvolvedor frontend com mais de 8 anos de experiência, focado em criar interfaces performáticas, acessíveis e escaláveis com React, Next.js e TypeScript.
 
 Atuo também com organização de design systems, testes automatizados (Jest + RTL), arquitetura de componentes e integração com APIs REST/GraphQL.
 
@@ -73,6 +73,23 @@ A aplicação oferece autenticação com JWT, validações robustas com class-va
 - Validações com class-validator
 - Docker + Swagger
 - Organização por módulos e services (DDD light)
+
+---
+
+### 🌐 My Portfolio (Next.js)
+[🔗 Repositório](https://github.com/Coldiblaster/my-portfolio)
+
+Portfólio pessoal desenvolvido com Next.js 15, TailwindCSS e TypeScript, com foco em acessibilidade, responsividade e boas práticas de desenvolvimento.
+
+O projeto exibe minhas habilidades técnicas, experiências e projetos em uma interface leve, moderna e com animações suaves — implementadas com Framer Motion.
+
+**Tech Stack:**
+- Next.js 15 (App Router)
+- TailwindCSS
+- Framer Motion
+- TypeScript
+- Responsividade total + dark mode
+- Deploy via Vercel
 
 ---
 
