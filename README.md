@@ -1,18 +1,56 @@
-
 # Vinicius Bastazin Araujo
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/vbastazin)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrogibicoski@gmail.com)](vbastazin@gmail.com)
+🎯 Frontend Engineer | React, Next.js, React Native, TypeScript  
+📍 Presidente Prudente, SP – Aberto a remoto Brasil/EUA/Europa  
+📫 [LinkedIn](https://linkedin.com/in/vbastazin) • [Portfólio](https://viniciusbastazin.vercel.app) • [E-mail](mailto:vbastazin@gmail.com)
 
-# Hello! :wave:
+---
 
-#### Full Stack Developer
+## 💻 Sobre mim
 
-### Techs I am learning:
+Sou desenvolvedor frontend com mais de 6 anos de experiência, focado em criar interfaces performáticas, acessíveis e escaláveis com React, Next.js e TypeScript.
 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
-[![Type Script Badge](http://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=reactjs&logoColor=white&link=https://www.typescriptlang.org/
-)](https://www.typescriptlang.org/)
-[![ReactJS Badge](https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=reactjs&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+Atuo também com organização de design systems, testes automatizados (Jest + RTL), arquitetura de componentes e integração com APIs REST/GraphQL.
 
+Gosto de trabalhar com times colaborativos, boas práticas e código que dura mais que um sprint.
+
+---
+
+## 🛠️ Stack atual
+
+**Frontend:**  
+React.js • Next.js • React Native • TypeScript • Tailwind CSS • React Query • Zod • React Hook Form
+
+**Backend (apoio):**  
+Node.js • NestJS • MongoDB • PostgreSQL • Firebase
+
+**Testes e Qualidade:**  
+Jest • React Testing Library • ESLint • Prettier
+
+**Infra e DevOps:**  
+AWS (SES, S3, Lambda) • Google Cloud • Vercel • CI/CD
+
+**Colaboração:**  
+Figma • Git • GitHub Actions
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [clean-node-api](https://github.com/Coldblaster/clean-node-api) | `TypeScript` | Backend usando TDD, Clean Architecture e SOLID |
+| [auth-tdd](https://github.com/Coldblaster/auth-tdd) | `JavaScript` | App de autenticação com testes desde o início |
+| [go-barber-back-end](https://github.com/Coldblaster/go-barber-back-end) | `TypeScript` | Backend do projeto GoBarber da Rocketseat |
+| [nextlevelweek-01](https://github.com/Coldblaster/nextlevelweek-01) | `TypeScript` | Aplicação web construída na NLW #01 |
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Stats Widget -->
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coldblaster&show_icons=true&theme=tokyonight)
+
+---
+
+🔍 Aberto a oportunidades como Desenvolvedor Frontend Sênior. Vamos conversar?
