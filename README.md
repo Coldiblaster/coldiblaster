@@ -1,4 +1,4 @@
-![Vinicius Bastazin - Frontend Engineer](https://i.ibb.co/LX1LKTkL/Chat-GPT-Image-3-de-ago-de-2025-15-15-53.png)
+
 
 
 # Vinicius Bastazin Araujo
