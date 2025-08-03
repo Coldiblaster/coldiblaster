@@ -28,7 +28,7 @@ Node.js • NestJS • MongoDB • PostgreSQL • Firebase
 Jest • React Testing Library • ESLint • Prettier
 
 **Infra e DevOps:**  
-AWS (SES, S3, Lambda) • Google Cloud • Vercel • CI/CD
+AWS (SES, S3) • Google Cloud • Vercel • CI/CD 
 
 **Colaboração:**  
 Figma • Git • GitHub Actions
